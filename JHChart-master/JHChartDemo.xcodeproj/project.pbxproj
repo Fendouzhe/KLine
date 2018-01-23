@@ -334,7 +334,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = JH;
+				ORGANIZATIONNAME = leilurong;
 				TargetAttributes = {
 					AA5E2BAD1CBA298F00FC19EE = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -577,7 +577,7 @@
 				DEVELOPMENT_TEAM = 9QLCGED959;
 				INFOPLIST_FILE = JHChartDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JH.JHChartDemo8;
+				PRODUCT_BUNDLE_IDENTIFIER = JH.leilurong.JHChartDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -592,7 +592,7 @@
 				DEVELOPMENT_TEAM = 9QLCGED959;
 				INFOPLIST_FILE = JHChartDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JH.JHChartDemo8;
+				PRODUCT_BUNDLE_IDENTIFIER = JH.leilurong.JHChartDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};

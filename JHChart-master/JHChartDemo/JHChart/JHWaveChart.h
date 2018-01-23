@@ -2,8 +2,8 @@
 //  JHWaveChart.h
 //  JHChartDemo
 //
-//  Created by cjatech-简豪 on 16/4/13.
-//  Copyright © 2016年 JH. All rights reserved.
+//  Created by leilurong on 16/4/13.
+//  Copyright © 2016年 leilurong. All rights reserved.
 //
 
 #import "JHChart.h"

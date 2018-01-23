@@ -2,8 +2,8 @@
 //  JHRadarChart.m
 //  JHChartDemo
 //
-//  Created by 简豪 on 16/9/9.
-//  Copyright © 2016年 JH. All rights reserved.
+//  Created by leilurong on 16/9/9.
+//  Copyright © 2016年 leilurong. All rights reserved.
 //
 
 #import "JHRadarChart.h"
